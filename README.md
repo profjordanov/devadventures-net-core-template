@@ -6,7 +6,6 @@ After installing the VSIX you will see the template available under Visual C#:
 
 > To get familiar with the Maybe and Either monads you can take a look at the [introductory Option article](https://devadventures.net/2018/04/17/forget-object-reference-not-set-to-an-instance-of-an-object-functional-adventures-in-c/), [real life examples of Either in C#](https://devadventures.net/2018/09/20/real-life-examples-of-functional-c-sharp-either/) and the  [template introductory article](https://devadventures.net/2018/06/09/introducing-dev-adventures-net-core-project-template/).
 
-
 ---
 
 ## Features
